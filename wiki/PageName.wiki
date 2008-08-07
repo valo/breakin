@@ -1,0 +1,10 @@
+#summary About the game
+
+= Introduction =
+
+This is a cloning of the game Arcanoid. The unique feature is that it supports multiplayer. Check below for some screenshots.
+
+
+= Screenshots =
+
+Coming soon...
