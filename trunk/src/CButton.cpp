@@ -53,3 +53,4 @@ void CButton::Idle()
 {
 	if (trans > idle_trans) trans -= 5;
 }
+
