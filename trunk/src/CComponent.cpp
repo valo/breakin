@@ -35,3 +35,4 @@ void CComponent::ProcessEvents()
 		if (have_mouse) MouseOut();
 		else Idle();
 }
+
