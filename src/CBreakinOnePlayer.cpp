@@ -153,3 +153,4 @@ void CBreakinOnePlayer::LoadNextLevel()
 	}
 	map = new CBlockMap(campain[curr_level]);
 }
+
